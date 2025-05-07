@@ -1,9 +1,9 @@
 # 5010-Final-Project
 
-##Concept
+## Concept
 
-##Inspiration
+## Inspiration
 
-##Goals
+## Goals
 
-##Evaluation
+## Evaluation
